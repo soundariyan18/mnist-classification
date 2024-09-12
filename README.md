@@ -153,7 +153,7 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 ![image](https://github.com/soundariyan18/mnist-classification/blob/main/OUT%2C1.png)
-![image](https://github.com/soundariyan18/mnist-classification/blob/main/OUT%2C2.png)
+![image](https://github.com/soundariyan18/mnist-classification/blob/main/OUT%2C3.png)
 
 ### Classification Report
 
