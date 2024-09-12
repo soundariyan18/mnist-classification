@@ -1,6 +1,8 @@
 # EXPERIMENT 03: CONVOLUTIONAL DEEP NEURAL NETWORK FOR DIGIT CLASSIFICATION
-## AIM:
+
+## AIM
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
+
 ## PROBLEM STATEMENT AND DATASET:
 Problem Statement:<br/>
 The task at hand involves developing a Convolutional Neural Network (CNN) that can accurately classify handwritten digits ranging from 0 to 9. This CNN should be capable of processing scanned images of handwritten digits, even those not included in the standard dataset.
