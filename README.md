@@ -12,16 +12,36 @@ The MNIST dataset is widely recognized as a foundational resource in both machin
 ![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/c3f13fc2-1b61-49a1-a72d-54274b33742c)
 
 ## DESIGN STEPS
-### STEP 1:
-Preprocess the MNIST dataset by scaling the pixel values to the range [0, 1] and converting labels to one-hot encoded format.
-### STEP 2:
-Build a convolutional neural network (CNN) model with specified architecture using TensorFlow Keras.
-### STEP 3:
-Compile the model with categorical cross-entropy loss function and the Adam optimizer.
-### STEP 4:
-Train the compiled model on the preprocessed training data for 5 epochs with a batch size of 64.
-### STEP 5:
-Evaluate the trained model's performance on the test set by plotting training/validation metrics and generating a confusion matrix and classification report. Additionally, make predictions on sample images to demonstrate model inference.
+STEP 1:
+Import tensorflow and preprocessing libraries.
+
+STEP 2:
+Download and load the dataset
+
+STEP 3:
+Scale the dataset between it's min and max values
+
+STEP 4:
+Using one hot encode, encode the categorical values
+
+STEP 5:
+Split the data into train and test
+
+STEP 6:
+Build the convolutional neural network model
+
+STEP 7:
+Train the model with the training data
+
+STEP 8:
+Plot the performance plot
+
+STEP 9:
+Evaluate the model with the testing data
+
+STEP 10:
+Fit the model and predict the single input
+
 
 ## PROGRAM:
 ### Name: soundariyan MN
@@ -130,7 +150,8 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image]()
+![image](https://github.com/soundariyan18/mnist-classification/blob/main/OUT%2C1.png)
+![image](https://github.com/soundariyan18/mnist-classification/blob/main/OUT%2C2.png)
 
 ### Classification Report
 
