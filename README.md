@@ -152,6 +152,11 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![OUT,2](https://github.com/user-attachments/assets/8e4d47bb-6fa5-4cf0-80fb-51e4a017c8fb)
+![OUT,3](https://github.com/user-attachments/assets/70ac04a4-e94d-4072-bb94-2b424bf69f99)
+
+
+
 
 
 ### Classification Report
