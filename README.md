@@ -160,13 +160,20 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 
 
 ### Classification Report
+![OUT,5](https://github.com/user-attachments/assets/b4c8b8c1-e9f9-45c1-b10e-dcf837d6f99a)
+
 
 
 ### Confusion Matrix
+![OUT,4](https://github.com/user-attachments/assets/4633aaf6-010f-4b60-b8ab-2b3a06bffc78)
+
 
 
 
 ### New Sample Data Prediction
+
+![Screenshot 2024-09-13 114839](https://github.com/user-attachments/assets/04bc51ac-caf2-4598-b5c8-446878cdeade)
+
 
 
 
